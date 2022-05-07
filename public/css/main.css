@@ -1,8 +1,8 @@
 .hidden {
-    display: none;
-  }
-  
-  label {
-    margin-bottom: 10px;
-    display: block;
-  }
+  display: none;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
